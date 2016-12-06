@@ -1,0 +1,17 @@
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Release\ManPol.exe.config
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Release\ManPol.exe
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Release\ManPol.pdb
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.mainForm.resources
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.Properties.Resources.resources
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.csproj.GenerateResource.Cache
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.exe
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.pdb
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Release\ManPol.exe.config
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.exe
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.pdb
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Release\ManPol.exe
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Release\ManPol.pdb
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.mainForm.resources
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.Properties.Resources.resources
+C:\Users\jmo\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.csproj.GenerateResource.Cache
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Release\ManPol.csprojResolveAssemblyReference.cache

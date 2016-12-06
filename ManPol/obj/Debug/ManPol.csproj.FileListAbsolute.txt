@@ -1,0 +1,9 @@
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Debug\ManPol.exe.config
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Debug\ManPol.exe
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\bin\Debug\ManPol.pdb
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Debug\ManPol.mainForm.resources
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Debug\ManPol.Properties.Resources.resources
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Debug\ManPol.csproj.GenerateResource.Cache
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Debug\ManPol.exe
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Debug\ManPol.pdb
+C:\Users\jmoore\Dropbox\Research\Optical\Polarimetry\Coding\Csharp\ManPol\ManPol\obj\Debug\ManPol.csprojResolveAssemblyReference.cache
